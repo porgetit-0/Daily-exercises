@@ -11,3 +11,5 @@ Si comenzamos con 1 y 2, los primeros 10 términos serán: 1, 2, 3, 5, 8, 13, 21
 Si consideramos los términos de la sucesión de Fibonacci cuyos valores no excedan los 4 millones, determine la suma de todos los valores pares."
 
 Tercer ejercicio: "Los factores primos de 13195 son 5, 7, 13 y 29. ¿Cuál es el factor primo más grande del número 600851475143?"
+
+Cuarto ejercicio: "Un número palindrómico se lee igual en ambos sentidos. El palíndromo más grande hecho del producto de dos números de 2 dígitos es 9009 = 91 × 99. Encuentra el palíndromo más grande hecho del producto de dos números de 3 dígitos."
